@@ -20,9 +20,5 @@
 <a href="mailto:camila.falaschi@outlook.com"><img width="51" alt="outlook" src="https://user-images.githubusercontent.com/102390423/197324170-19c9fe16-e2fd-4d88-873e-aad222da5596.png"></a>
 
 ## Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=camila-falaschi&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=camila-falaschi&repo=convoychat" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camila-falaschi&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camila-falaschi&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
