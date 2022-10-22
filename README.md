@@ -1,12 +1,14 @@
 <!--## Hi there 👋, I'm Camila. Nice to meet you. 
 I'm a Full Stack Web Developer student at [Trybe](https://www.betrybe.com/).
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I'm+Camila;Nice+to+meet+you)](https://git.io/typing-svg)
-I'm a Full Stack Web Developer student at [Trybe](https://www.betrybe.com/).
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I'm+Camila.;Nice+to+meet+you!)](https://git.io/typing-svg)
+<p align="left">I'm a Full Stack Web Developer student at [Trybe](https://www.betrybe.com/).</p>
 
 <!--
 **Camila-Falaschi/Camila-Falaschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+![catGithub2](https://user-images.githubusercontent.com/102390423/197322962-fd5e9071-ef4e-4c1b-bc3b-b73a372f97b5.png)
 
 - 🌱 I’m currently learning **Object-Relational Mapping in Node.js**
 - 💬 Ask me about **anything**
