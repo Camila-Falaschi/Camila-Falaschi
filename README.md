@@ -15,4 +15,4 @@
 
 ## Contact me:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-falaschi/)
-<a href="mailto:camila.falaschi@outlook.com"><img width="20" alt="outlook" src="https://user-images.githubusercontent.com/102390423/197324170-19c9fe16-e2fd-4d88-873e-aad222da5596.png"></a>
+<a href="mailto:camila.falaschi@outlook.com"><img width="100" alt="outlook" src="https://user-images.githubusercontent.com/102390423/197324170-19c9fe16-e2fd-4d88-873e-aad222da5596.png"></a>
