@@ -9,7 +9,7 @@
 - 💬 Ask me about anything
 - 😄 **Pronouns:** She/Her
 - ☕ **Favorite Drink:** Hot chocolate
-- 🍲 **Favorite Food:** Brazilian Shrimp Stuffed Pumpkin and Yakisoba
+- 🍲 **Favorite Foods:** Brazilian Shrimp Stuffed Pumpkin and Yakisoba
 - ✨ **Curiosity:** I'm Italian-Brazilian and yonsei (Japanese descendant of the fourth generation)
 - ⚡ **Fun fact:** I created a 3D mini-game on Blender in high school. However, I don't remember where I left it.
 
