@@ -7,7 +7,7 @@ I'm a Full Stack Web Developer student at [Trybe](https://www.betrybe.com/).
 <!--
 **Camila-Falaschi/Camila-Falaschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align="right" top="200" width="400" alt="illustration" src="https://user-images.githubusercontent.com/102390423/197322962-fd5e9071-ef4e-4c1b-bc3b-b73a372f97b5.png">
+<img align="right" top="10" width="400" alt="illustration" src="https://user-images.githubusercontent.com/102390423/197322962-fd5e9071-ef4e-4c1b-bc3b-b73a372f97b5.png">
 
 - 🌱 I’m currently learning **Object-Relational Mapping in Node.js**
 - 💬 Ask me about **anything**
