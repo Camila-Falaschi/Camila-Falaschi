@@ -13,8 +13,11 @@
 - ✨ **Curiosity:** I'm Italian-Brazilian and yonsei (Japanese descendant of the fourth generation)
 - ⚡ **Fun fact:** I created a 3D mini-game on Blender in high school. However, I don't remember where I left it.
 
-## Contact me:
-- ✉️ E-mail: camila.falaschi@outlook.com
+### Contact me:
+- E-mail: camila.falaschi@outlook.com
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-falaschi/)
 <a href="mailto:camila.falaschi@outlook.com"><img width="51" alt="outlook" src="https://user-images.githubusercontent.com/102390423/197324170-19c9fe16-e2fd-4d88-873e-aad222da5596.png"></a>
+
+### Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camila-falaschi)](https://github.com/anuraghazra/github-readme-stats)
