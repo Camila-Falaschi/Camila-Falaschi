@@ -5,7 +5,7 @@
 **Camila-Falaschi/Camila-Falaschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 **I’m currently learning** Object-Relational Mapping in Node.js
+- 🌱 **I’m currently learning** Object-oriented programming (OOP)
 - 💬 Ask me about anything
 - 😄 **Pronouns:** She/Her
 - ☕ **Favorite Drink:** Hot chocolate
