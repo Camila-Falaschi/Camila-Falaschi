@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I'm+Camila.;Nice+to+meet+you!)](https://git.io/typing-svg)
-<img align="right" width="300" alt="illustration" src="https://user-images.githubusercontent.com/102390423/197322962-fd5e9071-ef4e-4c1b-bc3b-b73a372f97b5.png">
+<img align="right" width="300" alt="illustration" src="https://user-images.githubusercontent.com/102390423/201497862-04def6a4-afc2-4ff3-87de-959def55b11a.svg">
 <p align="left">I'm a Full Stack Web Developer student at <a href="https://www.betrybe.com/" target="blank">Trybe.</a></p>
 <!--
 **Camila-Falaschi/Camila-Falaschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
