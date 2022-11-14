@@ -17,7 +17,7 @@
 - E-mail: camila.falaschi@outlook.com
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-falaschi/)
-<a href="mailto:camila.falaschi@outlook.com"><img width="51" alt="outlook" src="https://user-images.githubusercontent.com/102390423/197324170-19c9fe16-e2fd-4d88-873e-aad222da5596.png"></a>
+<a href="mailto:camila.falaschi@outlook.com"><img width="51" alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 
 ## Languages and Tools:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
