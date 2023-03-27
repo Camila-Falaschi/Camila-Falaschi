@@ -41,10 +41,10 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![RTL](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+<img src="https://user-images.githubusercontent.com/102390423/227821268-a02759fe-59e1-445a-88cf-7d8c4e86a917.png" alt="react testing library badge" width="140">
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
-<img src="https://user-images.githubusercontent.com/102390423/227820045-f40c51e7-31fb-42c5-8022-0463851ee613.png" alt="sinon badge" width="100">
+<img src="https://user-images.githubusercontent.com/102390423/227820983-14a61ffc-53d0-42f9-a97a-636e3f04611c.png" alt="sinon badge" width="111">
 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
@@ -52,3 +52,4 @@
 ## Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camila-falaschi&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camila-falaschi&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
