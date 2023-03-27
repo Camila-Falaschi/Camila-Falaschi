@@ -41,7 +41,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-<img src="https://user-images.githubusercontent.com/102390423/227821268-a02759fe-59e1-445a-88cf-7d8c4e86a917.png" alt="react testing library badge" width="140">
+<img src="https://user-images.githubusercontent.com/102390423/227822689-3f4b1339-c886-4948-a789-924850d52286.png" alt="react testing library badge" width="165">
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 <img src="https://user-images.githubusercontent.com/102390423/227820983-14a61ffc-53d0-42f9-a97a-636e3f04611c.png" alt="sinon badge" width="111">
