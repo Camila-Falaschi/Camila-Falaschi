@@ -11,7 +11,7 @@
 - ☕ **Favorite Drink:** Hot chocolate
 - 🍲 **Favorite Foods:** Brazilian Shrimp Stuffed Pumpkin and Yakisoba
 - ✨ **Curiosity:** I'm Italian-Brazilian and Japanese
-- cat2 **Kids**: I'm mother of three cats 😺😺😺
+- ❤ **Kids**: I'm mother of three cats 	:cat2:	:cat2:	:cat2:
 - ⚡ **Fun fact:** I created a 3D mini-game on Blender in high school. However, I don't remember where I left it.
 
 ## Contact me:
