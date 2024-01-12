@@ -5,14 +5,14 @@
 **Camila-Falaschi/Camila-Falaschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 **I’m currently learning** Java at Udemy
-- 💬 Ask me about anything
-- 😄 **Pronouns:** She/Her
-- ☕ **Favorite Drink:** Hot chocolate
-- 🍲 **Favorite Foods:** Brazilian Shrimp Stuffed Pumpkin and Yakisoba
-- ✨ **Curiosity:** I'm Italian-Brazilian and Japanese
-- ❤ **Kids**: I'm mother of three cats 🐈 🐈 🐈
-- ⚡ **Fun fact:** I created a 3D mini-game on Blender in high school. However, I don't remember where I left it.
+- :seedling: **I’m currently learning** Java at Udemy
+- :speech_balloon: Ask me about anything
+- :smile: **Pronouns:** She/Her
+- :coffee: **Favorite Drink:** Hot chocolate
+- :stew: **Favorite Foods:** Brazilian Shrimp Stuffed Pumpkin and Yakisoba
+- :globe_with_meridians: **Nationalities:** Brazilian :brazil: and Italian :it:
+- :heart: **Kids**: I'm mother of three cats :cat2: :cat2: :cat2:
+- :sparkles: **Fun fact:** I'm an Italian, Brazilian, and Japanese decedent
 
 ## Contact me:
 - E-mail: camila.falaschi@outlook.com
