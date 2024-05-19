@@ -55,6 +55,6 @@ And university student of Systems Analysis and Development at <a href="https://w
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ## Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camila-falaschi&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camila-falaschi&show_icons=true&theme=github_dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camila-falaschi&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
