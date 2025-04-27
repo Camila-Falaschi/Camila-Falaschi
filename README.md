@@ -12,15 +12,7 @@ And university student of Systems Analysis and Development at <a href="https://w
 - :smile: **Pronouns:** She/Her
 - :coffee: **Favorite Drink:** Hot chocolate
 - :stew: **Favorite Foods:** Brazilian Shrimp Stuffed Pumpkin and Yakisoba
-- :globe_with_meridians: **Nationalities:** Brazilian :brazil: and Italian :it:
 - :heart: **Kids**: I'm mother of three cats :cat2: :cat2: :cat2:
-- :sparkles: **Fun fact:** I'm an Italian, Brazilian, and Japanese decedent
-
-## Contact me:
-- E-mail: camila.falaschi@outlook.com
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-falaschi/)
-[![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:camila.falaschi@outlook.com)
 
 ## Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
